@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-# Meridian
+# Healthcare Quality Platform
 
 **A healthcare quality and compliance platform**
 
